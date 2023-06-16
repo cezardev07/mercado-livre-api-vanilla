@@ -1,0 +1,11 @@
+footer{
+    width: 100%;
+    padding: 30px;
+    background: #fff159;
+}
+footer .descricao{
+    max-width: 1200px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+}

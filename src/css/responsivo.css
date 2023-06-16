@@ -1,0 +1,10 @@
+@media (max-width: 1210px){
+    main section.cards article{
+        justify-content: center;
+    }
+}
+@media (max-width: 500px) {
+    header aside{
+        width: 100%;
+    }
+}

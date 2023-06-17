@@ -26,7 +26,7 @@ const use = async (query) => {
 
         card.innerHTML = `
             <a href="${permalink}" target="_blank" rel="noopener noreferrer">
-                <img src="${thumbnail}" alt="imagem produto">
+                <img src="${thumbnail.replace(/\w\.jpg/gi, "W.jpg")}" alt="imagem produto">
             </a>
             <a href="${permalink}" target="_blank" rel="noopener noreferrer" class="price">
                 <strong><p>R$ ${price}</p></strong>

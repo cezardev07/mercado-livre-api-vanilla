@@ -15,4 +15,4 @@ A interface do projeto é amigável e responsiva, proporcionando uma experiênci
 
 - Com o recurso de busca por diferentes tipos de produtos através da api do Mercado Livre, os usuários podem digitar palavras-chave para obter uma lista atualizada de resultados correspondentes aos critérios fornecidos.
 
-O projeto foi criado com foco em estuda desenvolvimento web, e um projeto simples mas que aborda varios conceitos sobre programação utilizano javascript e estilização com css. o projeto e focando apenas para em estudo!
+O projeto foi criado com foco em estuda desenvolvimento web, e um projeto simples mas que aborda varios conceitos sobre programação utilizando javascript e estilização com css. o projeto e focando apenas para em estudo!
